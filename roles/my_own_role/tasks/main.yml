@@ -1,0 +1,6 @@
+---
+# tasks file for my_own_role
+    - name: Call my_test_module
+      my_own_module:
+        path: /tmp/file1
+        content: qweqweqweqwe

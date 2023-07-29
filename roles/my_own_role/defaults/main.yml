@@ -1,0 +1,4 @@
+# defaults file for my_own_role
+---
+path: "/tmp/file"
+content: "qwe\nasd\nzdc"
